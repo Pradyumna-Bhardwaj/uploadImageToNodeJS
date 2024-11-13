@@ -1,0 +1,1 @@
+This code is to gain full control over uploaded images in nodeJS through multer.
